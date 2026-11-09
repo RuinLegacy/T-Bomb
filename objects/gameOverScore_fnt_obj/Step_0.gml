@@ -1,0 +1,1 @@
+text_to_draw = "Your Score: " + variable_global_get(string(global.score))
